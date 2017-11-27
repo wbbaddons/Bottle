@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-bottlejs@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/bottlejs/-/bottlejs-1.6.1.tgz#d087df2d3d1009056609d6a1ef921da6d788247c"
+bottlejs@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/bottlejs/-/bottlejs-1.6.2.tgz#40a3f1d264d8b7ce9a6836636b463b45edcf7a95"
