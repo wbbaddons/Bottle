@@ -3,8 +3,8 @@
 	<packageinformation>
 		<packagename>Bottle.js</packagename>
 		<isapplication>0</isapplication>
-		<version>1.6.2</version>
-		<date>2017-11-27</date>
+		<version>1.7.0</version>
+		<date>2018-02-14</date>
 	</packageinformation>
 	
 	<authorinformation>
@@ -26,6 +26,10 @@
 	</instructions>
 
 	<instructions type="update" fromversion="1.6.1">
+		<instruction type="file" application="wcf">files_wcf.tar</instruction>
+	</instructions>
+
+	<instructions type="update" fromversion="1.6.2">
 		<instruction type="file" application="wcf">files_wcf.tar</instruction>
 	</instructions>
 </package>
