@@ -3,8 +3,8 @@
 	<packageinformation>
 		<packagename>Bottle.js</packagename>
 		<isapplication>0</isapplication>
-		<version>1.7.0</version>
-		<date>2018-02-14</date>
+		<version>2.0.0</version>
+		<date>2021-04-17</date>
 	</packageinformation>
 	
 	<authorinformation>
@@ -13,13 +13,12 @@
 	</authorinformation>
 	
 	<requiredpackages>
-		<requiredpackage minversion="3.0.0 RC 1">com.woltlab.wcf</requiredpackage>
+		<requiredpackage minversion="5.2.13">com.woltlab.wcf</requiredpackage>
 	</requiredpackages>
 	
-	<compatibility>
-		<api version="2017" />
-		<api version="2018" />
-	</compatibility>
+	<excludedpackages>
+		<excludedpackage version="6.0.0 Alpha 1">com.woltlab.wcf</excludedpackage>
+	</excludedpackages>
 	
 	<instructions type="install">
 		<instruction type="file" application="wcf">files_wcf.tar</instruction>
