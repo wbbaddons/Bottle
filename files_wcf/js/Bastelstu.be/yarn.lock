@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-bottlejs@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/bottlejs/-/bottlejs-2.0.0.tgz#c1770ac9c6ca435b13e8c4da71ed779b8cd398e8"
-  integrity sha512-Qhz5dd1YPTOHw0gZ1a1WpJ/oEWsq09BMMbxczeAPgubISij+ZFfah7wfOlHFeFQpWLQkS9TGz5C54tV6v0BlFA==
+bottlejs@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/bottlejs/-/bottlejs-2.0.1.tgz#f2c97b3ee7a180a1a42c5156eb7ac5b7a2beaf09"
+  integrity sha512-50T0bzqeAqZ+//kgjdDxNu7UP8Je04isNPyHPwwOOPoeZmtVESkuF9nwkWEqSEd9Sw1yJ1oaoHBAMxe/wG4Zzg==
